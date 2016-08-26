@@ -23,3 +23,4 @@ OAuth2View 2.0 OAuth2View.qml
 ClientCertificateView 2.0 ClientCertificateView.qml
 SslHandshakeView 2.0 SslHandshakeView.qml
 UserCredentialsView 2.0 UserCredentialsView.qml
+LegendInfoListView 2.0 LegendInfoListView.qml
